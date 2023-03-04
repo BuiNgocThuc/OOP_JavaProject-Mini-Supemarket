@@ -1,0 +1,6 @@
+DCR;Do ca nhan 1;Do ca nhan;nhu cau thiet yeu;8000;250
+KG;Do ca nhan 2;Do ca nhan;nhu cau thiet yeu;8000;100
+CG;Nuoc uong 1;Nuoc co ga;Uong;9000;385
+CC;Nuoc uong 2;Nuoc co con;Uong;9000;90
+DH;Thuc pham 1;Do dong hop;An;10000;180
+CB;Thuc Pham 2;Do che bien;An;10000;360
